@@ -1,0 +1,23 @@
+{
+  "name": "simple-toast-message",
+  "version": "1.0.1",
+  "description": "This is sample package to show the user input message.",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SuriyaBsoft/npm-package.git"
+  },
+  "keywords": [
+    "message",
+    "toast"
+  ],
+  "author": "Suriyaprakash A",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SuriyaBsoft/npm-package/issues"
+  },
+  "homepage": "https://github.com/SuriyaBsoft/npm-package#readme"
+}
